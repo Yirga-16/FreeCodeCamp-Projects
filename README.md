@@ -1,2 +1,2 @@
 # FreeCodeCamp-Projects
-Data Scvience projects from FreeCodeCamp
+Data Science projects from FreeCodeCamp
